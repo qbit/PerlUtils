@@ -2,6 +2,7 @@ Utils
 ==================
 
 INSTALLATION
+============
 
 To install this module type the following:
 
@@ -11,6 +12,7 @@ To install this module type the following:
    make install
 
 COPYRIGHT AND LICENCE
+=====================
 
 Put the correct copyright and licence information here.
 
